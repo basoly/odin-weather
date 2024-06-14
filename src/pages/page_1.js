@@ -1,21 +1,25 @@
-function listContacts() {
-	const contacts = [
-		{ name: "John Doe", email: "johndoe@example.com", phone: "555-555-5555" },
-		{ name: "Jane Smith", email: "janesmith@example.com", phone: "555-555-5556" },
-		{ name: "Bob Johnson", email: "bobjohnson@example.com", phone: "555-555-5557" }
-	];
+// Write functions that hit WeatherAPI, take location, return weather data.
+// feed data into console.log()
 
-	const contentDiv = document.getElementById("content");
-	contentDiv.textContent = "";
-	const contactsList = document.createElement("ul");
 
-	contacts.forEach(contact => {
-		const listItem = document.createElement("li");
-		listItem.textContent = `${contact.name} - Email: ${contact.email}, Phone: ${contact.phone}`;
-		contactsList.appendChild(listItem);
-	});
 
-	contentDiv.appendChild(contactsList);
-}
 
-export { listContacts };
+// write functions that process the JSON data you're getting from the API and return an object with only the data you require for your app.
+
+
+
+
+// make form lets users input location, fetch weather info. 
+// feed to console log.
+
+
+
+
+
+// render information to web page.
+
+
+
+
+
+// add styling
