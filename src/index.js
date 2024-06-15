@@ -40,7 +40,8 @@ getForecast('london', 7);
 // make form lets users input location, fetch weather info. 
 // feed to console log.
 
-
+// https://www.geeksforgeeks.org/how-to-create-a-form-dynamically-with-the-javascript/
+// https://medium.com/@stheodorejohn/event-preventdefault-explained-controlling-default-browser-behavior-with-ease-b578d883aefe#:~:text=In%20JavaScript%2C%20event.,navigating%20to%20a%20new%20URL.
 
 
 
