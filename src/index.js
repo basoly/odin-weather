@@ -45,6 +45,8 @@ getForecast('london', 7);
 
 
 
+
+
 // render information to web page.
 
 
